@@ -1,5 +1,7 @@
-const myVara = 'C is fun';
-const myVarb = 'Python is cool';
-const myVarc = 'JavaScript is amazing';
+const line1 = 'C is fun';
+const line2 = 'Python is cool';
+const line3 = 'JavaScript is amazing';
 
-console.log(myVara, myVarb, myVarc)
+console.log(line1);
+console.log(line2);
+console.log(line3);
