@@ -1,7 +1,3 @@
-const lane1 = "C is fun";
-const lane2 = "Python is cool";
-const lane3 = "Javascript is amazing";
+let age = 25;
+let year = 2019;
 
-console.log(lane1);
-console.log(lane2);
-console.log(lane3);
